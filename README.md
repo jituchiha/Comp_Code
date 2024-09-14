@@ -1,2 +1,2 @@
-# LC
-Just a bunch of classic leetcode grind
+
+Just a bunch of classic lc and contests grind
